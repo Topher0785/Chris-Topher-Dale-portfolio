@@ -1,7 +1,6 @@
-# Chris-Topher-Dale-portfolio
+# Chris-Topher-Dale-portfolio.
 
-*If you travel to this website,
-you will find a profile photo, as well as
-finding my work and contact information.
-This also will give you the ability to go to
-the websites I have completed. 
+# What you will find at this site.
+## First you will notice there is a profile picture. While I'm not Skrek we could be twins.
+### Then you will notice there are working websites. Run-Buddy, Reagans website, and Then the fan page.
+#### Finally you will find my contact info on the right side of the screen. 
