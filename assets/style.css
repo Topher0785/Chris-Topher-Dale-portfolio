@@ -54,15 +54,15 @@ p {
     height: 450px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../assets/Shrek_Its\ Me.jpeg.jpg");
+    background-image: url("../assets/Family.jpg");
     background-size: cover;
     background-position: center;
 }
 .top-photo {
-    background-image: url("../assets/Shrek_Its\ Me.jpeg.jpg");
+    background-image: url("../assets/Family.jpg");
     background-size: cover;
     background-position: center;
-    height:600px;
+    height:800px;
     width: 100%;
     margin-bottom: 25px;
 }   
@@ -143,5 +143,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 21px;
+    font-size: 20px;
 }
